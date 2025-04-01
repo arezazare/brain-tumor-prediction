@@ -32,5 +32,8 @@ This medical machine learning project predicts brain tumor types using structure
 ## 📈 Results
 Final model successfully classified tumor types with high accuracy. Feature selection improved model interpretability and performance.
 
+## 👏 Author
+**Reza** — Full ML pipeline implemented from scratch.
+
 ## 📎 Credits
 Dataset sourced from [Kaggle](https://www.kaggle.com/) for educational and research purposes. All rights to the original dataset belong to the respective uploader.
